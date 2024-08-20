@@ -1,1 +1,2 @@
 i miss programming in c language
+so many people urgue that python is stonger than c since python is most likely used in data sience forgetting that C was used in developing a kernel of a certain operating system
